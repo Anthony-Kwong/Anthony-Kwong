@@ -10,6 +10,9 @@
   </a>
 </p>
 
+<!--- 
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony-Kwong)](https://github.com/Anthony-Kwong/github-readme-stats)
+
 <!---
 Anthony-Kwong/Anthony-Kwong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
