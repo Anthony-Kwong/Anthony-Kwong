@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on bioacoustics projects. 
 - 📫 How to reach me shingyan.kwong@manchester.ac.uk
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,r,github,py)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,r,github,py" />
+  </a>
+</p>
 
 <!---
 Anthony-Kwong/Anthony-Kwong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
