@@ -9,7 +9,7 @@
 
 - # 👋 Hi, I'm Anthony Kwong
 
-I'm a PhD candidate in Statistics at the University of Manchester, where I apply mathematical modelling, statistical learning, and sequence analysis to complex biological systems — from birdsong to ancient DNA. My work bridges data science and biological insight, with a focus on building tools that are both theoretically grounded and practically useful.
+I'm a PhD candidate in Statistics at the University of Manchester, where I apply mathematical modelling, statistical learning, and sequence analysis to complex biological systems — from birdsong to ancient DNA. I work in the intersection of statistics, machine learning and biology, with a focus on building tools that are both theoretically grounded and practically useful.
 
 ---
 
