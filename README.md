@@ -30,9 +30,9 @@ You can find it in the pinned repositories below.
 ## 📊 Skills & Interests
 
 - **Languages**: R, Python, C++
-- **Methods**: Machine Learning (SVM, Random Forest, HMMs), Time Series, SDEs, Bayesian Modelling  
+- **Methods**: Machine Learning (SVM, Random Forest, Deep Learning), Time Series, SDEs, Bayesian Modelling, Hidden Markov Models
 - **Tools**: Rcpp, Stan, Git,LaTeX  
-- **Applications**: Bioinformatics, Cultural Evolution, Behavioural Science, Statistical Modelling
+- **Applications**:  Statistical Modelling, Population Genetics, Ancient DNA,Bioinformatics, Cultural Evolution, Animal Behaviour
 
 ---
 
