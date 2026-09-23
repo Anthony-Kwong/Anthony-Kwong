@@ -1,15 +1,15 @@
 <!--- 
 - 👋 Hi, I’m @Anthony-Kwong
-- 👀 I’m interested in bioacoustics, statistics, machine learning and evolutionary biology. 
-- 🌱 I’m currently learning bioacoustics. 
-- 💞️ I’m looking to collaborate on bioacoustics projects. 
-- 📫 How to reach me shingyan.kwong@manchester.ac.uk
+- 👀 I’m interested in population genetics, bioacoustics, statistics, machine learning and evolutionary biology. 
+- 🌱 I’m currently learning graph neural networks. 
+- 💞️ I’m looking to collaborate on population genetics projects. 
+- 📫 How to reach me axk6513@psu.edu
 
 --->
 
 - # 👋 Hi, I'm Anthony Kwong
 
-I'm a PhD candidate in Statistics at the University of Manchester, where I apply mathematical modelling, statistical learning, and sequence analysis to complex biological systems — from birdsong to ancient DNA. I work in the intersection of statistics, machine learning and biology, with a focus on building tools that are both theoretically grounded and practically useful.
+I'm a postdoc in the Huber Lab at Penn State University. My formal training is in statistics and machine learning, and I have been applying these to population genetics and bioacoustics. 
 
 ---
 
@@ -46,12 +46,10 @@ I'm passionate about statistical communication, data-driven discovery, and creat
 - **Science Communication / Open Source Projects**
 
 Let's connect:  
-📧 [shingyan.kwong@manchester.ac.uk]  
+📧 [axk6513@psu.edu]  
 🌐 [LinkedIn](https://www.linkedin.com/in/anthony-kwong-5785091b4/)
 
 ---
-
-> “All models are wrong, but some are useful.” – George Box  
 
 
 <p align="center">
